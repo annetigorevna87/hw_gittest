@@ -11,9 +11,12 @@ html, body {
 }
 
 div {
+	float: left;
 	padding: 10px;
-	margin: 10px;
+	margin: 5px 10px;
 	text-align: center;
+	width: 45%;
+	border: 1px solid;
 }
 
 h1 {
@@ -23,5 +26,5 @@ h1 {
 }
 
 p {
-	
+	font-size: 16px;
 }
